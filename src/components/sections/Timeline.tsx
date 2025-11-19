@@ -77,7 +77,7 @@ const experiences: Experience[] = [
     id: "panthera",
     title: "Managing Director (Company of the Year Competition)",
     company: "Panthera",
-    companyUrl: "https://www.linkedin.com/company/panthera/",
+    companyUrl: "https://www.linkedin.com/company/pantherajaiom/",
     employmentType: "Full-time",
     startDate: "Sep 2021",
     endDate: "Jul 2022",
