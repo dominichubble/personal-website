@@ -17,7 +17,7 @@ function App() {
         <Profile />
         <ContentCards />
         <Projects />
-        <MarqueeDemo />
+        {/* <MarqueeDemo /> */}
         <Timeline />
       </div>
 
